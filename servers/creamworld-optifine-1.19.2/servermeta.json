@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/CreamWorld/CreamWorld-Dist/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "크림월드 옵티파인",
+    "description": "옵티파인이 포함 된 모드팩 입니다!",
+    "address": "creamming.mcv.kr",
+    "discord": {
+      "shortId": "크림월드",
+      "largeImageText": "크림월드",
+      "largeImageKey": "icon"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "43.2.11"
+  },
+  "untrackedFiles": []
+}
