@@ -10,7 +10,7 @@
       "largeImageText": "크림월드",
       "largeImageKey": "icon"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": true
   },
   "forge": {
