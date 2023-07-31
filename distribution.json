@@ -766,14 +766,47 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
+          "id": "default.json",
+          "name": "default.json",
           "type": "File",
           "artifact": {
-            "size": 26,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/options.txt",
-            "MD5": "c9468a192b7ec5839a6f38bef6a38225",
-            "path": "options.txt"
+            "size": 210,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/resourcepacks/Godo%20-%20Font%20Pack/assets/minecraft/font/default.json",
+            "MD5": "f78067e0a88685be260dcac7f5de0957",
+            "path": "resourcepacks/Godo - Font Pack/assets/minecraft/font/default.json"
+          }
+        },
+        {
+          "id": "font.ttf",
+          "name": "font.ttf",
+          "type": "File",
+          "artifact": {
+            "size": 2183056,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/resourcepacks/Godo%20-%20Font%20Pack/assets/minecraft/font/font.ttf",
+            "MD5": "9321ba9c21a3d4e12855e6862943a3ab",
+            "path": "resourcepacks/Godo - Font Pack/assets/minecraft/font/font.ttf"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 89,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/resourcepacks/Godo%20-%20Font%20Pack/pack.mcmeta",
+            "MD5": "df53f60922b4e563e2bca1955f185301",
+            "path": "resourcepacks/Godo - Font Pack/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 680,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/resourcepacks/Godo%20-%20Font%20Pack/pack.png",
+            "MD5": "8086596f245557a58a69224256dd6819",
+            "path": "resourcepacks/Godo - Font Pack/pack.png"
           }
         },
         {
@@ -1596,17 +1629,6 @@
             "size": 7846790,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.3.28.jar",
             "MD5": "d50859ce7d19a54d764566c1a330ce22"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 93,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/options.txt",
-            "MD5": "51a90b175bfbd1aa78986b99ac7c3bc1",
-            "path": "options.txt"
           }
         },
         {
