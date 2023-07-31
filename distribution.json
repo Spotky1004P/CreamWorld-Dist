@@ -776,6 +776,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 26,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/options.txt",
+            "MD5": "c9468a192b7ec5839a6f38bef6a38225",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
@@ -1602,9 +1613,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 118,
+            "size": 93,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/options.txt",
-            "MD5": "9e5e9dda8b52f081c1858f9dceb62983",
+            "MD5": "51a90b175bfbd1aa78986b99ac7c3bc1",
             "path": "options.txt"
           }
         },
