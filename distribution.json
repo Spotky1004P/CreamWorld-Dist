@@ -696,16 +696,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.2_HD_U_I1@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6932845,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_I1.jar",
-            "MD5": "23a9a9fa0a24bd214b868d06d2effe95"
-          }
-        },
-        {
           "id": "com.abdelaziz:pluto:0.0.9@jar",
           "name": "Pluto",
           "type": "ForgeMod",
