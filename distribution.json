@@ -428,7 +428,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77110785,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/optionalon/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
+            "url": "https://cdn.modrinth.com/data/fM515JnW/versions/yNFnf8du/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
             "MD5": "653b0dc7669700ff68dee49bc8644229"
           },
           "required": {
@@ -1220,7 +1220,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77110785,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/optionalon/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
+            "url": "https://cdn.modrinth.com/data/fM515JnW/versions/yNFnf8du/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
             "MD5": "653b0dc7669700ff68dee49bc8644229"
           },
           "required": {
