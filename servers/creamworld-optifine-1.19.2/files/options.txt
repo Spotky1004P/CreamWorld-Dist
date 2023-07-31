@@ -1,3 +1,0 @@
-version:3120
-resourcePacks:["vanilla","file/Godo.zip"]
-incompatibleResourcePacks:["file/Godo.zip"]
