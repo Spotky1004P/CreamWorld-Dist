@@ -11,7 +11,7 @@
       "id": "creamworld-optifine-1.19.2",
       "name": "크림월드 옵티파인",
       "description": "옵티파인이 포함 된 모드팩 입니다!",
-      "icon": "https://cdn.discordapp.com/app-icons/1130128230251253791/e1b0581391fcba612c8f8c5827aadc4d.png",   
+      "icon": "https://cdn.discordapp.com/app-icons/1130128230251253791/e1b0581391fcba612c8f8c5827aadc4d.png",
       "version": "1.0.0",
       "address": "creamming.mcv.kr",
       "minecraftVersion": "1.19.2",
@@ -423,6 +423,19 @@
           }
         },
         {
+          "id": "team.creative:ambientsounds:5.2.13@jar",
+          "name": "Ambient Sounds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77110785,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/optionalon/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
+            "MD5": "653b0dc7669700ff68dee49bc8644229"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.ametrinstudios:ametrin:0.0.26@jar",
           "name": "Ametrin",
           "type": "ForgeMod",
@@ -763,14 +776,14 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
+          "id": "servers.dat",
+          "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 102,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/options.txt",
-            "MD5": "b6961f310209ef6c01ddc9a883a8a990",
-            "path": "options.txt"
+            "size": 4663,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/servers.dat",
+            "MD5": "7a5ed072e4c675adca11ac58fcc24de8",
+            "path": "servers.dat"
           }
         },
         {
@@ -1207,8 +1220,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77110785,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/optionalon/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
             "MD5": "653b0dc7669700ff68dee49bc8644229"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1586,9 +1602,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 102,
+            "size": 118,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/options.txt",
-            "MD5": "b6961f310209ef6c01ddc9a883a8a990",
+            "MD5": "9e5e9dda8b52f081c1858f9dceb62983",
             "path": "options.txt"
           }
         },
@@ -1634,6 +1650,17 @@
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/resourcepacks/Godo%20-%20Font%20Pack/pack.png",
             "MD5": "8086596f245557a58a69224256dd6819",
             "path": "resourcepacks/Godo - Font Pack/pack.png"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 4663,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/servers.dat",
+            "MD5": "7a5ed072e4c675adca11ac58fcc24de8",
+            "path": "servers.dat"
           }
         },
         {
