@@ -21,7 +21,7 @@
         "largeImageKey": "icon"
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.2.11",
@@ -566,13 +566,13 @@
           }
         },
         {
-          "id": "com.minsu1026:creamservermod:1.7@jar",
+          "id": "com.minsu1026:creamservermod:1.8@jar",
           "name": "Cream World Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 258752,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/CreamServerMod%20(Dev.%20Minsu1026_)-1.7.jar",
-            "MD5": "4b7bfa8c0a2bc4166b71f93d364fddcb"
+            "size": 267817,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/CreamServerMod%20(Dev.%20Minsu1026_)-1.8.jar",
+            "MD5": "fa7a090201e6ec1ca9dc4de558cd749e"
           }
         },
         {
@@ -1402,13 +1402,13 @@
           }
         },
         {
-          "id": "com.minsu1026:creamservermod:1.7@jar",
+          "id": "com.minsu1026:creamservermod:1.8@jar",
           "name": "Cream World Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 258752,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/CreamServerMod%20(Dev.%20Minsu1026_)-1.7.jar",
-            "MD5": "4b7bfa8c0a2bc4166b71f93d364fddcb"
+            "size": 267817,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/CreamServerMod%20(Dev.%20Minsu1026_)-1.8.jar",
+            "MD5": "fa7a090201e6ec1ca9dc4de558cd749e"
           }
         },
         {
