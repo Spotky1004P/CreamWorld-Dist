@@ -586,6 +586,16 @@
           }
         },
         {
+          "id": "team.chisel:ctm:1.19.2-1.1.6+8@jar",
+          "name": "ConnectedTexturesMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194727,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/CTM-1.19.2-1.1.68.jar",
+            "MD5": "ab8156e2a8510422a1f740f214a34058"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.6.1@jar",
           "name": "EntityCulling",
           "type": "ForgeMod",
@@ -703,6 +713,16 @@
             "size": 162595,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/pluto-mc1.19.2-0.0.9.jar",
             "MD5": "ff5c03f3f7bdc37b18bfb8029da1b0f5"
+          }
+        },
+        {
+          "id": "com.flanks255:simplylight:1.19.2-1.4.5-build.42@jar",
+          "name": "Simply Light",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 547634,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/simplylight-1.19.2-1.4.5-build.42.jar",
+            "MD5": "22a6bb1980ba63a322ce3a27aaa09049"
           }
         },
         {
@@ -1422,6 +1442,16 @@
           }
         },
         {
+          "id": "team.chisel:ctm:1.19.2-1.1.6+8@jar",
+          "name": "ConnectedTexturesMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194727,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/CTM-1.19.2-1.1.68.jar",
+            "MD5": "ab8156e2a8510422a1f740f214a34058"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.6.1@jar",
           "name": "EntityCulling",
           "type": "ForgeMod",
@@ -1579,6 +1609,16 @@
             "size": 1365455,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/rubidium-0.6.2b.jar",
             "MD5": "0d7630c9bbd84174a40dda40ecc1f341"
+          }
+        },
+        {
+          "id": "com.flanks255:simplylight:1.19.2-1.4.5-build.42@jar",
+          "name": "Simply Light",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 547634,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/simplylight-1.19.2-1.4.5-build.42.jar",
+            "MD5": "22a6bb1980ba63a322ce3a27aaa09049"
           }
         },
         {
