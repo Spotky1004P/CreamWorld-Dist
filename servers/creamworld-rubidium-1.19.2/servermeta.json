@@ -11,7 +11,7 @@
       "largeImageKey": "icon"
     },
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": false
   },
   "forge": {
     "version": "43.2.11"
