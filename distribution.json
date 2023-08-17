@@ -867,7 +867,7 @@
         "largeImageKey": "icon"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.2.11",
