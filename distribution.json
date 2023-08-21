@@ -446,6 +446,16 @@
           }
         },
         {
+          "id": "com.starfish_studios:another_furniture:1.19.2-2.1.4@jar",
+          "name": "Another Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2002250,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/another_furniture-forge-1.19.2-2.1.4.jar",
+            "MD5": "4ed7535b38dfdbc988eaaf609f0d828d"
+          }
+        },
+        {
           "id": "me.drex:antixray:1.3.0@jar",
           "name": "AntiXray",
           "type": "ForgeMod",
@@ -783,6 +793,17 @@
             "size": 6430507,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/libraries/OptiFine_1.19.2_HD_U_I1_MOD.jar",
             "MD5": "e6a3a95477e955a92f7be9685d1ed9f2"
+          }
+        },
+        {
+          "id": "bordered-clear-glass.zip",
+          "name": "bordered-clear-glass.zip",
+          "type": "File",
+          "artifact": {
+            "size": 443542,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/resourcepacks/bordered-clear-glass.zip",
+            "MD5": "981a97aebeeba19b132efe64878063b5",
+            "path": "resourcepacks/bordered-clear-glass.zip"
           }
         },
         {
@@ -1292,6 +1313,16 @@
           }
         },
         {
+          "id": "com.starfish_studios:another_furniture:1.19.2-2.1.4@jar",
+          "name": "Another Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2002250,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/another_furniture-forge-1.19.2-2.1.4.jar",
+            "MD5": "4ed7535b38dfdbc988eaaf609f0d828d"
+          }
+        },
+        {
           "id": "me.drex:antixray:1.3.0@jar",
           "name": "AntiXray",
           "type": "ForgeMod",
@@ -1669,6 +1700,17 @@
             "size": 7846790,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.3.28.jar",
             "MD5": "d50859ce7d19a54d764566c1a330ce22"
+          }
+        },
+        {
+          "id": "bordered-clear-glass.zip",
+          "name": "bordered-clear-glass.zip",
+          "type": "File",
+          "artifact": {
+            "size": 443542,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/resourcepacks/bordered-clear-glass.zip",
+            "MD5": "981a97aebeeba19b132efe64878063b5",
+            "path": "resourcepacks/bordered-clear-glass.zip"
           }
         },
         {
