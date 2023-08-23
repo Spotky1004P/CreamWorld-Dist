@@ -730,9 +730,9 @@
           "name": "Simply Light",
           "type": "ForgeMod",
           "artifact": {
-            "size": 547634,
+            "size": 547631,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/simplylight-1.19.2-1.4.5-build.42.jar",
-            "MD5": "22a6bb1980ba63a322ce3a27aaa09049"
+            "MD5": "f67f63fd880f179bd5f667e0d424b876"
           }
         },
         {
@@ -1647,9 +1647,9 @@
           "name": "Simply Light",
           "type": "ForgeMod",
           "artifact": {
-            "size": 547634,
+            "size": 547631,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/simplylight-1.19.2-1.4.5-build.42.jar",
-            "MD5": "22a6bb1980ba63a322ce3a27aaa09049"
+            "MD5": "f67f63fd880f179bd5f667e0d424b876"
           }
         },
         {
