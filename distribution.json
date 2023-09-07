@@ -581,7 +581,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 267817,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/CreamServerMod%20(Dev.%20Minsu1026_)-1.8.jar",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/CreamWorldMod%20(Dev.%20Minsu1026_)-1.8.jar",
             "MD5": "fa7a090201e6ec1ca9dc4de558cd749e"
           }
         },
@@ -703,6 +703,16 @@
             "size": 155597,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/memoryleakfix-forge-1.17+-1.0.0.jar",
             "MD5": "ebca35f761de545a36629bb2fafc09c6"
+          }
+        },
+        {
+          "id": "com.autovw:moreconcrete:1.4.2@jar",
+          "name": "More Concrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 482088,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/moreconcrete-1.4.2-1.19.2.jar",
+            "MD5": "ac7efd4adf8f85394772fe69ed8c57ec"
           }
         },
         {
@@ -1458,7 +1468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 267817,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/CreamServerMod%20(Dev.%20Minsu1026_)-1.8.jar",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/CreamWorldrMod%20(Dev.%20Minsu1026_)-1.8.jar",
             "MD5": "fa7a090201e6ec1ca9dc4de558cd749e"
           }
         },
@@ -1580,6 +1590,16 @@
             "size": 155597,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/memoryleakfix-forge-1.17+-1.0.0.jar",
             "MD5": "ebca35f761de545a36629bb2fafc09c6"
+          }
+        },
+        {
+          "id": "com.autovw:moreconcrete:1.4.2@jar",
+          "name": "More Concrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 482088,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/moreconcrete-1.4.2-1.19.2.jar",
+            "MD5": "ac7efd4adf8f85394772fe69ed8c57ec"
           }
         },
         {
