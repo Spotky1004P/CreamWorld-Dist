@@ -1,3 +1,0 @@
-version:3120
-resourcePacks:["mod_resources","vanilla","file/Godo - Font Pack"]
-lang:ko_kr
