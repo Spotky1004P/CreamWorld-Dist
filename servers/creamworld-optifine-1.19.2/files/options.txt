@@ -1,2 +1,0 @@
-version:3120
-lang:ko_kr
