@@ -428,7 +428,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77110785,
-            "url": "https://cdn.modrinth.com/data/fM515JnW/versions/yNFnf8du/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/optionalon/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
             "MD5": "653b0dc7669700ff68dee49bc8644229"
           },
           "required": {
@@ -581,7 +581,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 267817,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/CreamWorldMod%20(Dev.%20Minsu1026_)-1.8.jar",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/CreamWorldrMod%20(Dev.%20Minsu1026_)-1.8.jar",
             "MD5": "fa7a090201e6ec1ca9dc4de558cd749e"
           }
         },
@@ -756,16 +756,6 @@
           }
         },
         {
-          "id": "ca.spottedleaf:starlight:1.1.1+forge.a3aea74@jar",
-          "name": "Starlight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 110720,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/starlight-1.1.1forge.cf5b10b.jar",
-            "MD5": "56d04ee1894860ae595024e47a495ccb"
-          }
-        },
-        {
           "id": "terrablender.core:terrablender:2.0.1.136@jar",
           "name": "TerraBlender",
           "type": "ForgeMod",
@@ -861,13 +851,24 @@
           }
         },
         {
+          "id": "크림월드 리소스팩.zip",
+          "name": "크림월드 리소스팩.zip",
+          "type": "File",
+          "artifact": {
+            "size": 133649,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/resourcepacks/%ED%81%AC%EB%A6%BC%EC%9B%94%EB%93%9C%20%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
+            "MD5": "9e585de42cd428cfbe5d84655bee75d8",
+            "path": "resourcepacks/크림월드 리소스팩.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 4663,
+            "size": 4681,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/servers.dat",
-            "MD5": "7a5ed072e4c675adca11ac58fcc24de8",
+            "MD5": "ce787470e29937498e78621e3486644e",
             "path": "servers.dat"
           }
         },
@@ -1305,7 +1306,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77110785,
-            "url": "https://cdn.modrinth.com/data/fM515JnW/versions/yNFnf8du/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/optionalon/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar",
             "MD5": "653b0dc7669700ff68dee49bc8644229"
           },
           "required": {
@@ -1778,13 +1779,24 @@
           }
         },
         {
+          "id": "크림월드 리소스팩.zip",
+          "name": "크림월드 리소스팩.zip",
+          "type": "File",
+          "artifact": {
+            "size": 133649,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/resourcepacks/%ED%81%AC%EB%A6%BC%EC%9B%94%EB%93%9C%20%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
+            "MD5": "9e585de42cd428cfbe5d84655bee75d8",
+            "path": "resourcepacks/크림월드 리소스팩.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 4663,
+            "size": 4681,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/servers.dat",
-            "MD5": "7a5ed072e4c675adca11ac58fcc24de8",
+            "MD5": "ce787470e29937498e78621e3486644e",
             "path": "servers.dat"
           }
         },
