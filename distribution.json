@@ -836,16 +836,6 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.19.2-2.3.28@jar",
-          "name": "Simple Voice Chat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7846790,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.3.28.jar",
-            "MD5": "d50859ce7d19a54d764566c1a330ce22"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.19.2-2.4.24@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
