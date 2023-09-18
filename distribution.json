@@ -1684,6 +1684,36 @@
           }
         },
         {
+          "id": "com.ccr4ft3r:lightspeed:1.19.2-1.1.0@jar",
+          "name": "Lightspeed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50521,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/lightspeed-1.19.2-1.0.5.jar",
+            "MD5": "13e6f30aab7cf8ee21533ff09f31f541"
+          }
+        },
+        {
+          "id": "com.mcwpaths.kikoz:mcwpaths:1.0.3@jar",
+          "name": "Macaw's Paths and Pavings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 317829,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/mcw-paths-1.0.3forge-mc1.19.2.jar",
+            "MD5": "fcba1af1a4581d9b5da478e4f946061b"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.1.2@jar",
+          "name": "Memory Leak Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 158689,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/memoryleakfix-forge-1.17-1.1.2.jar",
+            "MD5": "ed20eb690105062557e29921eccd89a1"
+          }
+        },
+        {
           "id": "com.autovw:moreconcrete:1.4.2@jar",
           "name": "More Concrete",
           "type": "ForgeMod",
@@ -1814,13 +1844,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.19.2-2.3.28@jar",
+          "id": "de.maxhenkel:voicechat:1.19.2-2.4.24@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7846790,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.3.28.jar",
-            "MD5": "d50859ce7d19a54d764566c1a330ce22"
+            "size": 8091920,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.4.24.jar",
+            "MD5": "e256201b32a77ff64dd2c339b225e404"
           }
         },
         {
