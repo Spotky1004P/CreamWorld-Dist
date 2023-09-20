@@ -490,9 +490,9 @@
           "name": "Block Variants",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1497030,
+            "size": 1566891,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/block_variants-1.19.2-4.4.jar",
-            "MD5": "4b954be082f40cef41477901a592d6d2"
+            "MD5": "a5140637826c4865eae41a8bf071eb7c"
           }
         },
         {
@@ -500,9 +500,9 @@
           "name": "Builders Crafts & Addition",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2237908,
+            "size": 2333838,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/buildersaddition-1.19.2-20220926a.jar",
-            "MD5": "b0c6e4ce25dacf7a08caa185527e8087"
+            "MD5": "32814a6f28ccfa9f4c26de8a5f230052"
           }
         },
         {
@@ -730,9 +730,9 @@
           "name": "Macaw's Paths and Pavings",
           "type": "ForgeMod",
           "artifact": {
-            "size": 317829,
+            "size": 335244,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/mcw-paths-1.0.3forge-mc1.19.2.jar",
-            "MD5": "fcba1af1a4581d9b5da478e4f946061b"
+            "MD5": "3525cdbbc821463e7f7ec18d0ecf4d70"
           }
         },
         {
@@ -790,9 +790,9 @@
           "name": "Simply Light",
           "type": "ForgeMod",
           "artifact": {
-            "size": 547631,
+            "size": 560673,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/simplylight-1.19.2-1.4.5-build.42.jar",
-            "MD5": "f67f63fd880f179bd5f667e0d424b876"
+            "MD5": "638a43c7b38f6684a747ff0ca9e925d0"
           }
         },
         {
@@ -1418,9 +1418,9 @@
           "name": "Block Variants",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1497030,
+            "size": 1566891,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/block_variants-1.19.2-4.4.jar",
-            "MD5": "4b954be082f40cef41477901a592d6d2"
+            "MD5": "a5140637826c4865eae41a8bf071eb7c"
           }
         },
         {
@@ -1428,9 +1428,9 @@
           "name": "Builders Crafts & Addition",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2237908,
+            "size": 2333838,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/buildersaddition-1.19.2-20220926a.jar",
-            "MD5": "b0c6e4ce25dacf7a08caa185527e8087"
+            "MD5": "32814a6f28ccfa9f4c26de8a5f230052"
           }
         },
         {
@@ -1678,9 +1678,9 @@
           "name": "Macaw's Paths and Pavings",
           "type": "ForgeMod",
           "artifact": {
-            "size": 317829,
+            "size": 335244,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/mcw-paths-1.0.3forge-mc1.19.2.jar",
-            "MD5": "fcba1af1a4581d9b5da478e4f946061b"
+            "MD5": "3525cdbbc821463e7f7ec18d0ecf4d70"
           }
         },
         {
@@ -1778,9 +1778,9 @@
           "name": "Simply Light",
           "type": "ForgeMod",
           "artifact": {
-            "size": 547631,
+            "size": 560673,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/simplylight-1.19.2-1.4.5-build.42.jar",
-            "MD5": "f67f63fd880f179bd5f667e0d424b876"
+            "MD5": "638a43c7b38f6684a747ff0ca9e925d0"
           }
         },
         {
