@@ -1778,9 +1778,9 @@
           "name": "Simply Light",
           "type": "ForgeMod",
           "artifact": {
-            "size": 560673,
+            "size": 560769,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/simplylight-1.19.2-1.4.5-build.42.jar",
-            "MD5": "638a43c7b38f6684a747ff0ca9e925d0"
+            "MD5": "6497da4db0a8e6b73b51279f736f53ba"
           }
         },
         {
