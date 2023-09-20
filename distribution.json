@@ -490,9 +490,9 @@
           "name": "Block Variants",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1566891,
+            "size": 1566986,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/block_variants-1.19.2-4.4.jar",
-            "MD5": "a5140637826c4865eae41a8bf071eb7c"
+            "MD5": "c4d889ebb67e4fd1bee7a0aa6a36c372"
           }
         },
         {
@@ -500,9 +500,9 @@
           "name": "Builders Crafts & Addition",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2333838,
+            "size": 2333849,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/buildersaddition-1.19.2-20220926a.jar",
-            "MD5": "32814a6f28ccfa9f4c26de8a5f230052"
+            "MD5": "8661797da5bfd3f2fc146d03ead04e42"
           }
         },
         {
@@ -560,9 +560,9 @@
           "name": "Upgraded Netherite",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1252456,
+            "size": 1252482,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/cream%20world%20upgradednetherite.jar",
-            "MD5": "c7bcf8eeea13b2c3a5225035168b4d9f"
+            "MD5": "446c659b89d17d7502811aed26dacd3c"
           }
         },
         {
@@ -730,9 +730,9 @@
           "name": "Macaw's Paths and Pavings",
           "type": "ForgeMod",
           "artifact": {
-            "size": 335244,
+            "size": 335440,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/mcw-paths-1.0.3forge-mc1.19.2.jar",
-            "MD5": "3525cdbbc821463e7f7ec18d0ecf4d70"
+            "MD5": "5e789226199832d07a4b3a77c9654586"
           }
         },
         {
@@ -790,9 +790,9 @@
           "name": "Simply Light",
           "type": "ForgeMod",
           "artifact": {
-            "size": 560673,
+            "size": 560769,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/simplylight-1.19.2-1.4.5-build.42.jar",
-            "MD5": "638a43c7b38f6684a747ff0ca9e925d0"
+            "MD5": "6497da4db0a8e6b73b51279f736f53ba"
           }
         },
         {
@@ -1418,9 +1418,9 @@
           "name": "Block Variants",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1566891,
+            "size": 1566986,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/block_variants-1.19.2-4.4.jar",
-            "MD5": "a5140637826c4865eae41a8bf071eb7c"
+            "MD5": "c4d889ebb67e4fd1bee7a0aa6a36c372"
           }
         },
         {
@@ -1428,9 +1428,9 @@
           "name": "Builders Crafts & Addition",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2333838,
+            "size": 2333849,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/buildersaddition-1.19.2-20220926a.jar",
-            "MD5": "32814a6f28ccfa9f4c26de8a5f230052"
+            "MD5": "8661797da5bfd3f2fc146d03ead04e42"
           }
         },
         {
@@ -1498,9 +1498,9 @@
           "name": "Upgraded Netherite",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1252456,
+            "size": 1252482,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/cream%20world%20upgradednetherite.jar",
-            "MD5": "c7bcf8eeea13b2c3a5225035168b4d9f"
+            "MD5": "446c659b89d17d7502811aed26dacd3c"
           }
         },
         {
@@ -1678,9 +1678,9 @@
           "name": "Macaw's Paths and Pavings",
           "type": "ForgeMod",
           "artifact": {
-            "size": 335244,
+            "size": 335440,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/mcw-paths-1.0.3forge-mc1.19.2.jar",
-            "MD5": "3525cdbbc821463e7f7ec18d0ecf4d70"
+            "MD5": "5e789226199832d07a4b3a77c9654586"
           }
         },
         {
