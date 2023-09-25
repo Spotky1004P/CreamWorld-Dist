@@ -556,6 +556,16 @@
           }
         },
         {
+          "id": "com.minsu1026:creamservermod:2.0@jar",
+          "name": "Cream World Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10782589,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_)%20-%202.0.jar",
+            "MD5": "b9ee9b4fbedb3d8d5e6c54dd01c547b8"
+          }
+        },
+        {
           "id": "com.rolfmao:upgradednetherite:1.19.2-5.1.0.8-release@jar",
           "name": "Upgraded Netherite",
           "type": "ForgeMod",
@@ -563,16 +573,6 @@
             "size": 1252482,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/cream%20world%20upgradednetherite.jar",
             "MD5": "446c659b89d17d7502811aed26dacd3c"
-          }
-        },
-        {
-          "id": "com.minsu1026:creamservermod:1.9@jar",
-          "name": "Cream World Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10729744,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/CreamWorldMod%20(Dev.%20Minsu1026_)-1.9.jar",
-            "MD5": "81ec3171249b7e72e4fbf52c35706b94"
           }
         },
         {
@@ -1494,6 +1494,16 @@
           }
         },
         {
+          "id": "com.minsu1026:creamservermod:2.0@jar",
+          "name": "Cream World Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10782589,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_)%20-%202.0.jar",
+            "MD5": "b9ee9b4fbedb3d8d5e6c54dd01c547b8"
+          }
+        },
+        {
           "id": "com.rolfmao:upgradednetherite:1.19.2-5.1.0.8-release@jar",
           "name": "Upgraded Netherite",
           "type": "ForgeMod",
@@ -1501,16 +1511,6 @@
             "size": 1252482,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/cream%20world%20upgradednetherite.jar",
             "MD5": "446c659b89d17d7502811aed26dacd3c"
-          }
-        },
-        {
-          "id": "com.minsu1026:creamservermod:1.9@jar",
-          "name": "Cream World Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10729744,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/CreamWorldMod%20(Dev.%20Minsu1026_)-1.9.jar",
-            "MD5": "81ec3171249b7e72e4fbf52c35706b94"
           }
         },
         {
