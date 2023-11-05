@@ -13,7 +13,7 @@
       "description": "옵티파인이 포함 된 모드팩 입니다!",
       "icon": "https://cdn.discordapp.com/app-icons/1130128230251253791/e1b0581391fcba612c8f8c5827aadc4d.png",
       "version": "1.0.0",
-      "address": "creamming.mcv.kr",
+      "address": "creamworld.kr",
       "minecraftVersion": "1.19.2",
       "discord": {
         "shortId": "크림월드",
@@ -560,9 +560,9 @@
           "name": "Cream World Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10863394,
+            "size": 9368635,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_)%20-%202.1.jar",
-            "MD5": "7bf771d837467a55c2a0d77a469951cd"
+            "MD5": "f2985eb75ca41484bc196de9115600cf"
           }
         },
         {
@@ -916,9 +916,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 15165,
+            "size": 45445,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/servers.dat",
-            "MD5": "00e0231998f575afab5aaa4b3e6bc7ca",
+            "MD5": "09fa335263a826306724f21a49de72f0",
             "path": "servers.dat"
           }
         },
@@ -941,7 +941,7 @@
       "description": "루비듐이 포함 된 모드팩 입니다!",
       "icon": "https://cdn.discordapp.com/app-icons/1130128230251253791/e1b0581391fcba612c8f8c5827aadc4d.png",
       "version": "1.0.0",
-      "address": "creamming.mcv.kr",
+      "address": "creamworld.kr",
       "minecraftVersion": "1.19.2",
       "discord": {
         "shortId": "크림월드",
@@ -1498,9 +1498,9 @@
           "name": "Cream World Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10863394,
+            "size": 9368635,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_)%20-%202.1.jar",
-            "MD5": "7bf771d837467a55c2a0d77a469951cd"
+            "MD5": "f2985eb75ca41484bc196de9115600cf"
           }
         },
         {
@@ -1904,9 +1904,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 15165,
+            "size": 45445,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/servers.dat",
-            "MD5": "00e0231998f575afab5aaa4b3e6bc7ca",
+            "MD5": "09fa335263a826306724f21a49de72f0",
             "path": "servers.dat"
           }
         },
