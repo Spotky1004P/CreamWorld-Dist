@@ -10,7 +10,7 @@
     {
       "id": "creamworld-optifine-1.19.2",
       "name": "크림월드 옵티파인",
-      "description": "옵티파인이 포함 된 모드팩 입니다!",
+      "description": "옵티파인이 기반되는 모드팩 입니다!",
       "icon": "https://cdn.discordapp.com/app-icons/1130128230251253791/e1b0581391fcba612c8f8c5827aadc4d.png",
       "version": "1.0.0",
       "address": "creamworld.kr",
@@ -941,7 +941,7 @@
     {
       "id": "creamworld-rubidium-1.19.2",
       "name": "크림월드 루비듐",
-      "description": "루비듐이 포함 된 모드팩 입니다!",
+      "description": "루비듐이 기반되는 모드팩 입니다!",
       "icon": "https://cdn.discordapp.com/app-icons/1130128230251253791/e1b0581391fcba612c8f8c5827aadc4d.png",
       "version": "1.0.0",
       "address": "creamworld.kr",
