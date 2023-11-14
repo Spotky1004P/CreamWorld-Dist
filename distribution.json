@@ -761,8 +761,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 413719,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/notenoughanimations-forge-1.6.2-mc1.19.2.jar",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/optionalon/notenoughanimations-forge-1.6.2-mc1.19.2.jar",
             "MD5": "5a6d319aaecfff8591006eff3873fb22"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1709,8 +1712,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 413719,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/notenoughanimations-forge-1.6.2-mc1.19.2.jar",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/optionalon/notenoughanimations-forge-1.6.2-mc1.19.2.jar",
             "MD5": "5a6d319aaecfff8591006eff3873fb22"
+          },
+          "required": {
+            "value": false
           }
         },
         {
