@@ -849,6 +849,17 @@
           }
         },
         {
+          "id": "plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 1563,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/config/jade/plugins.json",
+            "MD5": "927f50b3d4a6206f9f89c3778444cb30",
+            "path": "config/jade/plugins.json"
+          }
+        },
+        {
           "id": "bordered-clear-glass.zip",
           "name": "bordered-clear-glass.zip",
           "type": "File",
@@ -1837,6 +1848,17 @@
             "size": 8091920,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.4.24.jar",
             "MD5": "e256201b32a77ff64dd2c339b225e404"
+          }
+        },
+        {
+          "id": "plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 1563,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/config/jade/plugins.json",
+            "MD5": "927f50b3d4a6206f9f89c3778444cb30",
+            "path": "config/jade/plugins.json"
           }
         },
         {
