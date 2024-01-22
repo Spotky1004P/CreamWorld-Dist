@@ -596,13 +596,13 @@
           }
         },
         {
-          "id": "com.cupboard:cupboard:1.19.2-2.0@jar",
+          "id": "com.cupboard:cupboard:1.19.2-2.1@jar",
           "name": "Cupboard utilities",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21506,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/cupboard-1.19.2-2.0.jar",
-            "MD5": "155b1a86fe0f5bde74f881813379335d"
+            "size": 21504,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/cupboard-1.19.2-2.1.jar",
+            "MD5": "9c4dbcac34177693a915034d2a486830"
           }
         },
         {
@@ -1548,13 +1548,13 @@
           }
         },
         {
-          "id": "com.cupboard:cupboard:1.19.2-2.0@jar",
+          "id": "com.cupboard:cupboard:1.19.2-2.1@jar",
           "name": "Cupboard utilities",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21506,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/cupboard-1.19.2-2.0.jar",
-            "MD5": "155b1a86fe0f5bde74f881813379335d"
+            "size": 21504,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/cupboard-1.19.2-2.1.jar",
+            "MD5": "9c4dbcac34177693a915034d2a486830"
           }
         },
         {
