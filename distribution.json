@@ -750,9 +750,9 @@
           "name": "More Concrete",
           "type": "ForgeMod",
           "artifact": {
-            "size": 482088,
+            "size": 464720,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/moreconcrete-1.4.2-1.19.2.jar",
-            "MD5": "ac7efd4adf8f85394772fe69ed8c57ec"
+            "MD5": "e06bb2e486bc92c751cc8aac0d2b6cd9"
           }
         },
         {
@@ -1712,9 +1712,9 @@
           "name": "More Concrete",
           "type": "ForgeMod",
           "artifact": {
-            "size": 482088,
+            "size": 464720,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/moreconcrete-1.4.2-1.19.2.jar",
-            "MD5": "ac7efd4adf8f85394772fe69ed8c57ec"
+            "MD5": "e06bb2e486bc92c751cc8aac0d2b6cd9"
           }
         },
         {
