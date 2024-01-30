@@ -716,6 +716,16 @@
           }
         },
         {
+          "id": "io.izzel.lightfall.client:lightfallclient:1.1.0+14@jar",
+          "name": "LightfallClient",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11728,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/lightfallclient-1.1.0.jar",
+            "MD5": "779465b3432e7004a8279863999e7129"
+          }
+        },
+        {
           "id": "com.ccr4ft3r:lightspeed:1.19.2-1.1.0@jar",
           "name": "Lightspeed",
           "type": "ForgeMod",
@@ -1675,6 +1685,16 @@
             "size": 14972,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/lazydfu-1.19-1.0.2.jar",
             "MD5": "e395095b221c320c50105e8d447c6ce0"
+          }
+        },
+        {
+          "id": "io.izzel.lightfall.client:lightfallclient:1.1.0+14@jar",
+          "name": "LightfallClient",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11728,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/lightfallclient-1.1.0.jar",
+            "MD5": "779465b3432e7004a8279863999e7129"
           }
         },
         {
