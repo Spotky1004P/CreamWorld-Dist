@@ -546,16 +546,6 @@
           }
         },
         {
-          "id": "com.connectivity:connectivity:1.19.2-4.5@jar",
-          "name": "Connectivity Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 62863,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/connectivity-1.19.2-4.5.jar",
-            "MD5": "f58b7e15b877e527b02c01e75b1a3cee"
-          }
-        },
-        {
           "id": "com.minsu1026:creamservermod:2.3@jar",
           "name": "Cream World Mod",
           "type": "ForgeMod",
@@ -1505,16 +1495,6 @@
             "size": 1050351,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/connectedness-2.0.1a.jar",
             "MD5": "c951f11629dc83b6d8b681d9a3a00c1a"
-          }
-        },
-        {
-          "id": "com.connectivity:connectivity:1.19.2-4.5@jar",
-          "name": "Connectivity Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 62863,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/connectivity-1.19.2-4.5.jar",
-            "MD5": "f58b7e15b877e527b02c01e75b1a3cee"
           }
         },
         {
