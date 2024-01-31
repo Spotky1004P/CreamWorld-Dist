@@ -466,13 +466,13 @@
           }
         },
         {
-          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.6@jar",
+          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.11@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3456075,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-2.0.6.jar",
-            "MD5": "7ccdd3b666139aee54606f70a19250e2"
+            "size": 3536944,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-2.0.11.jar",
+            "MD5": "88a6e6410ac891e136dadae53426f6f9"
           }
         },
         {
@@ -1418,13 +1418,13 @@
           }
         },
         {
-          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.6@jar",
+          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.11@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3456075,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-2.0.6.jar",
-            "MD5": "7ccdd3b666139aee54606f70a19250e2"
+            "size": 3536944,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-2.0.11.jar",
+            "MD5": "88a6e6410ac891e136dadae53426f6f9"
           }
         },
         {
