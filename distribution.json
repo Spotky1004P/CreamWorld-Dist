@@ -24,83 +24,83 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.2.11",
+          "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.3.7",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7376,
-            "MD5": "eab6c6511554ceb4af602905c53ed509",
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.2.11/lowcodelanguage-1.19.2-43.2.11.jar"
+            "size": 7375,
+            "MD5": "73ce4013b3c94f1203119214006b7f6d",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.3.7/lowcodelanguage-1.19.2-43.3.7.jar"
           },
           "subModules": [
             {
-              "id": "1.19.2-43.2.11",
+              "id": "1.19.2-43.3.7",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 15850,
-                "MD5": "9e9ff5c8191cb52ba7a8c02fd52809da",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/versions/1.19.2-forge-43.2.11/1.19.2-forge-43.2.11.json"
+                "size": 15497,
+                "MD5": "82c2a21d23cb4a89aa285e0995e66808",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/versions/1.19.2-forge-43.3.7/1.19.2-forge-43.3.7.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.19.2-43.2.11",
+              "id": "net.minecraftforge:fmlcore:1.19.2-43.3.7",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 112533,
-                "MD5": "17e507e9f8d67e99261c1a6921fa1ed7",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.2.11/fmlcore-1.19.2-43.2.11.jar"
+                "size": 113640,
+                "MD5": "7932b3da47e48efbe8d6c5382278d638",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.3.7/fmlcore-1.19.2-43.3.7.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.19.2-43.2.11",
+              "id": "net.minecraftforge:javafmllanguage:1.19.2-43.3.7",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16350,
-                "MD5": "6bac0272b095cb5f1a54ef2d659b53ea",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.2.11/javafmllanguage-1.19.2-43.2.11.jar"
+                "size": 16492,
+                "MD5": "c4e9c149428cd720120f4ebf47f32a9c",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.3.7/javafmllanguage-1.19.2-43.3.7.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.19.2-43.2.11",
+              "id": "net.minecraftforge:mclanguage:1.19.2-43.3.7",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4986,
-                "MD5": "5b82977a4c1e4d86dc0368631a576412",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.2.11/mclanguage-1.19.2-43.2.11.jar"
+                "size": 4984,
+                "MD5": "9d9ef280b327e0f09380aa95aa837d18",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.3.7/mclanguage-1.19.2-43.3.7.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.19.2-43.2.11:universal",
+              "id": "net.minecraftforge:forge:1.19.2-43.3.7:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2622294,
-                "MD5": "41aadb3d622e632fbe877b7edb5be89e",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.2.11/forge-1.19.2-43.2.11-universal.jar"
+                "size": 2644229,
+                "MD5": "587ea88ef7d81ec2f6b7a11dca80eda3",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.3.7/forge-1.19.2-43.3.7-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.19.2-43.2.11:client",
+              "id": "net.minecraftforge:forge:1.19.2-43.3.7:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 5299663,
-                "MD5": "8b1754a76d9f67b9e45dede9d09c4840",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.2.11/forge-1.19.2-43.2.11-client.jar"
+                "size": 5417627,
+                "MD5": "e0e2d0442224c2e811ad02f5f32991d9",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.3.7/forge-1.19.2-43.3.7-client.jar"
               },
               "subModules": []
             },
@@ -151,53 +151,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.3",
+              "id": "org.ow2.asm:asm:9.5",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 122176,
-                "MD5": "e1c3b96035117ab516ffe0de9bd696e0",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                "size": 121863,
+                "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.3",
+              "id": "org.ow2.asm:asm-commons:9.5",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 72716,
-                "MD5": "16e6ac17d33ad97baa415c42e9d93d38",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar"
+                "size": 72209,
+                "MD5": "7d1fce986192f71722b19754e4cb9e61",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.3",
+              "id": "org.ow2.asm:asm-tree:9.5",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 52669,
-                "MD5": "f087bfb911ff93957e44860de3e73c46",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar"
+                "size": 51944,
+                "MD5": "44755681b7d6fa7143afbb438e55c20c",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.3",
+              "id": "org.ow2.asm:asm-util:9.5",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 85682,
-                "MD5": "d6d0ac4e5c0be9a25a426c70c714b17b",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar"
+                "size": 91076,
+                "MD5": "ad0016249fb68bb9196babefd47b80dc",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.3",
+              "id": "org.ow2.asm:asm-analysis:9.5",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 34276,
-                "MD5": "11e43c0220b3f6b4791b8abf7b4cc7ef",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar"
+                "size": 33978,
+                "MD5": "4df0adafc78ebba404d4037987d36b61",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
               }
             },
             {
@@ -401,13 +401,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.19.2-43.2.11",
+              "id": "net.minecraftforge:fmlloader:1.19.2-43.3.7",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 261074,
-                "MD5": "0798f513235ca46e10419ec475795b48",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.2.11/fmlloader-1.19.2-43.2.11.jar"
+                "size": 261212,
+                "MD5": "7ce1c0a9df055da981fe1a26411ca6d0",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.3.7/fmlloader-1.19.2-43.3.7.jar"
               }
             }
           ]
@@ -853,9 +853,9 @@
           "name": "plugins.json",
           "type": "File",
           "artifact": {
-            "size": 1563,
+            "size": 1622,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/config/jade/plugins.json",
-            "MD5": "927f50b3d4a6206f9f89c3778444cb30",
+            "MD5": "1f5b140655877b5b9291493a47329e3b",
             "path": "config/jade/plugins.json"
           }
         },
@@ -966,83 +966,83 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.2.11",
+          "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.3.7",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7376,
-            "MD5": "eab6c6511554ceb4af602905c53ed509",
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.2.11/lowcodelanguage-1.19.2-43.2.11.jar"
+            "size": 7375,
+            "MD5": "73ce4013b3c94f1203119214006b7f6d",
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.3.7/lowcodelanguage-1.19.2-43.3.7.jar"
           },
           "subModules": [
             {
-              "id": "1.19.2-43.2.11",
+              "id": "1.19.2-43.3.7",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 15850,
-                "MD5": "9e9ff5c8191cb52ba7a8c02fd52809da",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/versions/1.19.2-forge-43.2.11/1.19.2-forge-43.2.11.json"
+                "size": 15497,
+                "MD5": "82c2a21d23cb4a89aa285e0995e66808",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/versions/1.19.2-forge-43.3.7/1.19.2-forge-43.3.7.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.19.2-43.2.11",
+              "id": "net.minecraftforge:fmlcore:1.19.2-43.3.7",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 112533,
-                "MD5": "17e507e9f8d67e99261c1a6921fa1ed7",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.2.11/fmlcore-1.19.2-43.2.11.jar"
+                "size": 113640,
+                "MD5": "7932b3da47e48efbe8d6c5382278d638",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.3.7/fmlcore-1.19.2-43.3.7.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.19.2-43.2.11",
+              "id": "net.minecraftforge:javafmllanguage:1.19.2-43.3.7",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16350,
-                "MD5": "6bac0272b095cb5f1a54ef2d659b53ea",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.2.11/javafmllanguage-1.19.2-43.2.11.jar"
+                "size": 16492,
+                "MD5": "c4e9c149428cd720120f4ebf47f32a9c",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.3.7/javafmllanguage-1.19.2-43.3.7.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.19.2-43.2.11",
+              "id": "net.minecraftforge:mclanguage:1.19.2-43.3.7",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4986,
-                "MD5": "5b82977a4c1e4d86dc0368631a576412",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.2.11/mclanguage-1.19.2-43.2.11.jar"
+                "size": 4984,
+                "MD5": "9d9ef280b327e0f09380aa95aa837d18",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.3.7/mclanguage-1.19.2-43.3.7.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.19.2-43.2.11:universal",
+              "id": "net.minecraftforge:forge:1.19.2-43.3.7:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2622294,
-                "MD5": "41aadb3d622e632fbe877b7edb5be89e",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.2.11/forge-1.19.2-43.2.11-universal.jar"
+                "size": 2644229,
+                "MD5": "587ea88ef7d81ec2f6b7a11dca80eda3",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.3.7/forge-1.19.2-43.3.7-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.19.2-43.2.11:client",
+              "id": "net.minecraftforge:forge:1.19.2-43.3.7:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 5299663,
-                "MD5": "8b1754a76d9f67b9e45dede9d09c4840",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.2.11/forge-1.19.2-43.2.11-client.jar"
+                "size": 5417627,
+                "MD5": "e0e2d0442224c2e811ad02f5f32991d9",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.3.7/forge-1.19.2-43.3.7-client.jar"
               },
               "subModules": []
             },
@@ -1093,53 +1093,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.3",
+              "id": "org.ow2.asm:asm:9.5",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 122176,
-                "MD5": "e1c3b96035117ab516ffe0de9bd696e0",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                "size": 121863,
+                "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.3",
+              "id": "org.ow2.asm:asm-commons:9.5",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 72716,
-                "MD5": "16e6ac17d33ad97baa415c42e9d93d38",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar"
+                "size": 72209,
+                "MD5": "7d1fce986192f71722b19754e4cb9e61",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.3",
+              "id": "org.ow2.asm:asm-tree:9.5",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 52669,
-                "MD5": "f087bfb911ff93957e44860de3e73c46",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar"
+                "size": 51944,
+                "MD5": "44755681b7d6fa7143afbb438e55c20c",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.3",
+              "id": "org.ow2.asm:asm-util:9.5",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 85682,
-                "MD5": "d6d0ac4e5c0be9a25a426c70c714b17b",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar"
+                "size": 91076,
+                "MD5": "ad0016249fb68bb9196babefd47b80dc",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.3",
+              "id": "org.ow2.asm:asm-analysis:9.5",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 34276,
-                "MD5": "11e43c0220b3f6b4791b8abf7b4cc7ef",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar"
+                "size": 33978,
+                "MD5": "4df0adafc78ebba404d4037987d36b61",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
               }
             },
             {
@@ -1343,13 +1343,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.19.2-43.2.11",
+              "id": "net.minecraftforge:fmlloader:1.19.2-43.3.7",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 261074,
-                "MD5": "0798f513235ca46e10419ec475795b48",
-                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.2.11/fmlloader-1.19.2-43.2.11.jar"
+                "size": 261212,
+                "MD5": "7ce1c0a9df055da981fe1a26411ca6d0",
+                "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.3.7/fmlloader-1.19.2-43.3.7.jar"
               }
             }
           ]
@@ -1855,9 +1855,9 @@
           "name": "plugins.json",
           "type": "File",
           "artifact": {
-            "size": 1563,
+            "size": 1622,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/config/jade/plugins.json",
-            "MD5": "927f50b3d4a6206f9f89c3778444cb30",
+            "MD5": "1f5b140655877b5b9291493a47329e3b",
             "path": "config/jade/plugins.json"
           }
         },
