@@ -546,13 +546,13 @@
           }
         },
         {
-          "id": "com.minsu1026:creamservermod:2.4@jar",
+          "id": "com.minsu1026:creamservermod:2.5@jar",
           "name": "Cream World Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9476716,
+            "size": 9503983,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_).jar",
-            "MD5": "c4f3584e92f5973d32046e11d57e0e7c"
+            "MD5": "37b4cd2a260706df6e1def40ee61e7d3"
           }
         },
         {
@@ -1498,13 +1498,13 @@
           }
         },
         {
-          "id": "com.minsu1026:creamservermod:2.4@jar",
+          "id": "com.minsu1026:creamservermod:2.5@jar",
           "name": "Cream World Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9476716,
+            "size": 9503983,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_).jar",
-            "MD5": "c4f3584e92f5973d32046e11d57e0e7c"
+            "MD5": "37b4cd2a260706df6e1def40ee61e7d3"
           }
         },
         {
