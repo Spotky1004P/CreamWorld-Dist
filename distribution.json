@@ -596,16 +596,6 @@
           }
         },
         {
-          "id": "lekavar.lma:drinkbeer:1.0.3@jar",
-          "name": "Drink Beer Refill",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1520881,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/drinkbeer-refill-1.19.2-1.0.3.jar",
-            "MD5": "8d7af357ba193dfc5ca55c99ec16106d"
-          }
-        },
-        {
           "id": "dev.tr7zw:entityculling:1.6.1@jar",
           "name": "EntityCulling",
           "type": "ForgeMod",
@@ -1555,16 +1545,6 @@
             "size": 21504,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/cupboard-1.19.2-2.1.jar",
             "MD5": "9c4dbcac34177693a915034d2a486830"
-          }
-        },
-        {
-          "id": "lekavar.lma:drinkbeer:1.0.3@jar",
-          "name": "Drink Beer Refill",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1520881,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/drinkbeer-refill-1.19.2-1.0.3.jar",
-            "MD5": "8d7af357ba193dfc5ca55c99ec16106d"
           }
         },
         {
