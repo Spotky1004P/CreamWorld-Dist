@@ -600,9 +600,9 @@
           "name": "Drink Beer Refill",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1513110,
+            "size": 1513241,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/drinkbeer-refill-1.19.2-1.0.3.jar",
-            "MD5": "d55e0c9b9a2880cd5924ccc30aab098e"
+            "MD5": "8ef08ffb9abd7f9cb0d3720590dd5c18"
           }
         },
         {
@@ -1562,9 +1562,9 @@
           "name": "Drink Beer Refill",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1513110,
+            "size": 1513241,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/drinkbeer-refill-1.19.2-1.0.3.jar",
-            "MD5": "d55e0c9b9a2880cd5924ccc30aab098e"
+            "MD5": "8ef08ffb9abd7f9cb0d3720590dd5c18"
           }
         },
         {
