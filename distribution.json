@@ -476,6 +476,16 @@
           }
         },
         {
+          "id": "io.github.foundationgames:automobility:0.4.2+1.19.2-forge@jar",
+          "name": "Automobility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1051920,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/automobility-0.4.2+1.19.2-forge.jar",
+            "MD5": "5a49f58e47a5b3339a0e0b51f657b4fe"
+          }
+        },
+        {
           "id": "biomesoplenty.core:biomesoplenty:17.1.2.544@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
@@ -1425,6 +1435,16 @@
             "size": 3441856,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-2.0.6.jar",
             "MD5": "f4f2f230c5c725f67673e6b4d913f9b1"
+          }
+        },
+        {
+          "id": "io.github.foundationgames:automobility:0.4.2+1.19.2-forge@jar",
+          "name": "Automobility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1051920,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/automobility-0.4.2+1.19.2-forge.jar",
+            "MD5": "5a49f58e47a5b3339a0e0b51f657b4fe"
           }
         },
         {
