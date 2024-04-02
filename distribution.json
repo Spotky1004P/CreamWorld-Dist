@@ -480,9 +480,9 @@
           "name": "Automobility",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1051920,
+            "size": 1037536,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/automobility-0.4.2+1.19.2-forge.jar",
-            "MD5": "5a49f58e47a5b3339a0e0b51f657b4fe"
+            "MD5": "bead90c225d9bacd607213063964b328"
           }
         },
         {
@@ -562,7 +562,7 @@
           "artifact": {
             "size": 9555788,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_).jar",
-            "MD5": "dfdb34dc3de30bcd612ccd1b3dcfca10"
+            "MD5": "7a4a00b3e63712ef13848fc3c13ca771"
           }
         },
         {
@@ -1453,9 +1453,9 @@
           "name": "Automobility",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1051920,
+            "size": 1037536,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/automobility-0.4.2+1.19.2-forge.jar",
-            "MD5": "5a49f58e47a5b3339a0e0b51f657b4fe"
+            "MD5": "bead90c225d9bacd607213063964b328"
           }
         },
         {
@@ -1545,7 +1545,7 @@
           "artifact": {
             "size": 9555788,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_).jar",
-            "MD5": "dfdb34dc3de30bcd612ccd1b3dcfca10"
+            "MD5": "7a4a00b3e63712ef13848fc3c13ca771"
           }
         },
         {
