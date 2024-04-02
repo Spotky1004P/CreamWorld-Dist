@@ -880,6 +880,17 @@
           }
         },
         {
+          "id": "blacklist.cfg",
+          "name": "blacklist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 10484,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/config/jei/blacklist.cfg",
+            "MD5": "9f0d7a6b931dd86cf0af3b9e96b817d8",
+            "path": "config/jei/blacklist.cfg"
+          }
+        },
+        {
           "id": "bordered-clear-glass.zip",
           "name": "bordered-clear-glass.zip",
           "type": "File",
@@ -1899,6 +1910,17 @@
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/config/jade/plugins.json",
             "MD5": "1f5b140655877b5b9291493a47329e3b",
             "path": "config/jade/plugins.json"
+          }
+        },
+        {
+          "id": "blacklist.cfg",
+          "name": "blacklist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 10484,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/config/jei/blacklist.cfg",
+            "MD5": "9f0d7a6b931dd86cf0af3b9e96b817d8",
+            "path": "config/jei/blacklist.cfg"
           }
         },
         {
