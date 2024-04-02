@@ -540,9 +540,9 @@
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2209834,
+            "size": 2292600,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/cfm-7.0.0-pre35-1.19.2.jar",
-            "MD5": "cd3ceae9615012f62d84fa1af860a1b0"
+            "MD5": "af8a14d4ae5993006341f9f2398bd58c"
           }
         },
         {
@@ -1502,9 +1502,9 @@
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2209834,
+            "size": 2292600,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/cfm-7.0.0-pre35-1.19.2.jar",
-            "MD5": "cd3ceae9615012f62d84fa1af860a1b0"
+            "MD5": "af8a14d4ae5993006341f9f2398bd58c"
           }
         },
         {
