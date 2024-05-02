@@ -1489,13 +1489,13 @@
           }
         },
         {
-          "id": "com.abdelaziz:canary:0.2.8@jar",
-          "name": "Canary",
+          "id": "de.maxhenkel:camera:1.19.2-1.0.6@jar",
+          "name": "Camera Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 431839,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/canary-mc1.19.2-0.2.8.jar",
-            "MD5": "ab20aaea7ce5972774c19eb4c525675f"
+            "size": 294851,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/camera-1.19.2-1.0.6.jar",
+            "MD5": "1210d32ee2fb68c1adeb836abc202acb"
           }
         },
         {
