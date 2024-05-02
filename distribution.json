@@ -756,13 +756,13 @@
           }
         },
         {
-          "id": "ca.fxco:memoryleakfix:1.1.2@jar",
+          "id": "ca.fxco:memoryleakfix:1.1.5@jar",
           "name": "Memory Leak Fix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 158689,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/memoryleakfix-forge-1.17-1.1.2.jar",
-            "MD5": "ed20eb690105062557e29921eccd89a1"
+            "size": 227925,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/memoryleakfix-forge-1.17-1.1.5.jar",
+            "MD5": "5dd9149414ca375ceab146242c6e84ab"
           }
         },
         {
@@ -1489,16 +1489,6 @@
           }
         },
         {
-          "id": "de.maxhenkel:camera:1.19.2-1.0.6@jar",
-          "name": "Camera Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 294851,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/camera-1.19.2-1.0.6.jar",
-            "MD5": "1210d32ee2fb68c1adeb836abc202acb"
-          }
-        },
-        {
           "id": "com.abdelaziz:canary:0.2.8@jar",
           "name": "Canary",
           "type": "ForgeMod",
@@ -1669,6 +1659,16 @@
           }
         },
         {
+          "id": "net.raphimc:immediatelyfast:1.2.12+1.19.2@jar",
+          "name": "ImmediatelyFast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 393320,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/ImmediatelyFast-Forge-1.2.121.19.2.jar",
+            "MD5": "5355d9d28813430f6b5aa62bf8bd3204"
+          }
+        },
+        {
           "id": "dlovin.inventoryhud:inventoryhud:3.4.6@jar",
           "name": "Inventory HUD+(Forge edition)",
           "type": "ForgeMod",
@@ -1749,13 +1749,23 @@
           }
         },
         {
-          "id": "ca.fxco:memoryleakfix:1.1.2@jar",
+          "id": "ca.fxco:memoryleakfix:1.1.5@jar",
           "name": "Memory Leak Fix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 158689,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/memoryleakfix-forge-1.17-1.1.2.jar",
-            "MD5": "ed20eb690105062557e29921eccd89a1"
+            "size": 227925,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/memoryleakfix-forge-1.17-1.1.5.jar",
+            "MD5": "5dd9149414ca375ceab146242c6e84ab"
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.17.0+mc1.19.2@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 757155,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/modernfix-forge-5.17.0mc1.19.2.jar",
+            "MD5": "b8d29ea99d98b6999d2b02eff86f982c"
           }
         },
         {
@@ -1789,16 +1799,6 @@
             "size": 3499284,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/oculus-mc1.19.2-1.6.9.jar",
             "MD5": "5c62ae78fcc5baba124c9ac7f950597e"
-          }
-        },
-        {
-          "id": "com.abdelaziz:pluto:0.0.9@jar",
-          "name": "Pluto",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 162595,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/pluto-mc1.19.2-0.0.9.jar",
-            "MD5": "ff5c03f3f7bdc37b18bfb8029da1b0f5"
           }
         },
         {
