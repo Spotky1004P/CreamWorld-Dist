@@ -423,6 +423,16 @@
           }
         },
         {
+          "id": "com.github.alexthe666:alexsmobs:1.21.1@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25655463,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/alexsmobs-1.21.1.jar",
+            "MD5": "0ba48ab00c965c7acaa061d0844d9f17"
+          }
+        },
+        {
           "id": "team.creative:ambientsounds:5.2.13@jar",
           "name": "Ambient Sounds",
           "type": "ForgeMod",
@@ -543,6 +553,16 @@
             "size": 2292600,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/cfm-7.0.0-pre35-1.19.2.jar",
             "MD5": "af8a14d4ae5993006341f9f2398bd58c"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.1.4@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3063232,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/citadel-2.1.4-1.19.jar",
+            "MD5": "5271cd9beb2675bd9fd76ed14a66e763"
           }
         },
         {
@@ -766,6 +786,16 @@
           }
         },
         {
+          "id": "tfar.mobcatcher:mobcatcher:1.19.2-5@jar",
+          "name": "Mob Catcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63017,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/mobcatcher-1.19.2-5.jar",
+            "MD5": "d19f2916f1026d12537746603e7fce31"
+          }
+        },
+        {
           "id": "com.autovw:moreconcrete:1.4.2@jar",
           "name": "More Concrete",
           "type": "ForgeMod",
@@ -884,9 +914,9 @@
           "name": "blacklist.cfg",
           "type": "File",
           "artifact": {
-            "size": 10484,
+            "size": 11241,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/config/jei/blacklist.cfg",
-            "MD5": "9f0d7a6b931dd86cf0af3b9e96b817d8",
+            "MD5": "a8cbfe9affc88ac3de97e95c747945b0",
             "path": "config/jei/blacklist.cfg"
           }
         },
@@ -1396,6 +1426,16 @@
           }
         },
         {
+          "id": "com.github.alexthe666:alexsmobs:1.21.1@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25655463,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/alexsmobs-1.21.1.jar",
+            "MD5": "0ba48ab00c965c7acaa061d0844d9f17"
+          }
+        },
+        {
           "id": "team.creative:ambientsounds:5.2.13@jar",
           "name": "Ambient Sounds",
           "type": "ForgeMod",
@@ -1506,6 +1546,16 @@
             "size": 2292600,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/cfm-7.0.0-pre35-1.19.2.jar",
             "MD5": "af8a14d4ae5993006341f9f2398bd58c"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.1.4@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3063232,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/citadel-2.1.4-1.19.jar",
+            "MD5": "5271cd9beb2675bd9fd76ed14a66e763"
           }
         },
         {
@@ -1759,6 +1809,16 @@
           }
         },
         {
+          "id": "tfar.mobcatcher:mobcatcher:1.19.2-5@jar",
+          "name": "Mob Catcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63017,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/mobcatcher-1.19.2-5.jar",
+            "MD5": "d19f2916f1026d12537746603e7fce31"
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.17.0+mc1.19.2@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -1917,9 +1977,9 @@
           "name": "blacklist.cfg",
           "type": "File",
           "artifact": {
-            "size": 10484,
+            "size": 11241,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/config/jei/blacklist.cfg",
-            "MD5": "9f0d7a6b931dd86cf0af3b9e96b817d8",
+            "MD5": "a8cbfe9affc88ac3de97e95c747945b0",
             "path": "config/jei/blacklist.cfg"
           }
         },
