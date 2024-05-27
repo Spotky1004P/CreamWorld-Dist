@@ -914,9 +914,9 @@
           "name": "blacklist.cfg",
           "type": "File",
           "artifact": {
-            "size": 11241,
+            "size": 10984,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/files/config/jei/blacklist.cfg",
-            "MD5": "a8cbfe9affc88ac3de97e95c747945b0",
+            "MD5": "413f23ea099eab44b30512b59a9746b4",
             "path": "config/jei/blacklist.cfg"
           }
         },
@@ -1977,9 +1977,9 @@
           "name": "blacklist.cfg",
           "type": "File",
           "artifact": {
-            "size": 11241,
+            "size": 10984,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/files/config/jei/blacklist.cfg",
-            "MD5": "a8cbfe9affc88ac3de97e95c747945b0",
+            "MD5": "413f23ea099eab44b30512b59a9746b4",
             "path": "config/jei/blacklist.cfg"
           }
         },
