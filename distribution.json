@@ -790,9 +790,9 @@
           "name": "Mob Catcher",
           "type": "ForgeMod",
           "artifact": {
-            "size": 63010,
+            "size": 63013,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-optifine-1.19.2/forgemods/required/mobcatcher-1.19.2-5.jar",
-            "MD5": "5efcdffdb17dd061d5056fb7a4ec9b46"
+            "MD5": "8ded870b3f193463b23002ef23ed7e9f"
           }
         },
         {
@@ -1813,9 +1813,9 @@
           "name": "Mob Catcher",
           "type": "ForgeMod",
           "artifact": {
-            "size": 63010,
+            "size": 63013,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/mobcatcher-1.19.2-5.jar",
-            "MD5": "5efcdffdb17dd061d5056fb7a4ec9b46"
+            "MD5": "8ded870b3f193463b23002ef23ed7e9f"
           }
         },
         {
