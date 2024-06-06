@@ -949,13 +949,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.19.2-2.5.8@jar",
+          "id": "de.maxhenkel:voicechat:1.19.2-2.5.15@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8148225,
-            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.5.8.jar",
-            "MD5": "07a54e4acd1a488dace9114074ac822b"
+            "size": 8146144,
+            "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.5.15.jar",
+            "MD5": "e3e9e6eff1b45a39bfdeb15cdf0b803d"
           }
         },
         {
