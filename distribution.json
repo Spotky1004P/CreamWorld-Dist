@@ -576,13 +576,13 @@
           }
         },
         {
-          "id": "com.minsu1026:creamservermod:2.4@jar",
+          "id": "com.minsu1026:creamservermod:3.2@jar",
           "name": "Cream World Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9554160,
+            "size": 9638880,
             "url": "https://github.com/Spotky1004P/CreamWorld-Dist/raw/main/servers/creamworld-rubidium-1.19.2/forgemods/required/Cream%20World%20Mod%20(Dev.%20Minsu1026_).jar",
-            "MD5": "cf99543d349f65d1745e20f88fdba176"
+            "MD5": "49a29d75667c1243e9fcdfb3c18ad4b7"
           }
         },
         {
